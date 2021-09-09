@@ -3,8 +3,8 @@ This is the supplementary code for a research paper about predicting the glass f
 
 How to use:
 
-Open PGFA.ipynb in Google Colab
-Add drop_model_final.h5 , random_forest.sav , st_scaler.sav files to runtime directory in colab
-Run all cells
-In last cell, it prompts for BMG Composition.
-Please provide the Composition and let the algo take care or parameters/input computataion and running the model. Wait for the output.
+1) Open PGFA.ipynb in Google Colab
+2) Add drop_model_final.h5 , random_forest.sav , st_scaler.sav files to runtime directory in colab
+3) Run all cells
+4) In last cell, it prompts for BMG Composition.
+5) Please provide the Composition and let the algo take care or parameters/input computataion and running the model. Wait for the output.
